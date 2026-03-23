@@ -1,8 +1,8 @@
 # Early Fusion Multi-Omics Machine Learning Pipeline
 
 **Author:** Susanta Behura  
-**Version:** v1.0.0  
-**DOI:** (to be assigned via Zenodo)  
+**Version:** v1.0.1  
+**DOI: 10.5281/zenodo.19187153
 
 ## Overview
 
